@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lumber">#FFDFD3</color>
+    <color name="lumber_light">#FFEFE9 </color>
+    <color name="lumber_black">#332D2A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
