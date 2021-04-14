@@ -17,6 +17,10 @@ Tudo de graça. ALL FREE.
 
 ![Alt Text](job_list.png)
 
+#### #2 - See all the details of the Job opportunity.
+
+![Alt Text](job_detail.png)
+
 
 # AplicaAi use the following technologies to work:
 
