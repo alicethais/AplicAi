@@ -2,8 +2,7 @@
 
 # AplicAi - Varias vagas de TI
 
-AplicAi é um projeto ainda em construção voltado para encontrar oportunidades na area de TI facilmente, sem varios e varios cadastros ou imensas propagandas.
-Tudo de graça. ALL FREE.
+AplicAi is a project still under construction, focused in find IT opportunities easily, without many and many registers or huge advertisements. All free.
 </br> 
 </br> 
 
